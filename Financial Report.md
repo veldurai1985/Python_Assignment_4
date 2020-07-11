@@ -4,7 +4,7 @@
 
 1. **Expense by Category**
 
-    Transfer and payment accounted for most of the expense. Also, Harold spends minimal amount for travel. Pie chart is attached that classifies the expenses to the category. 
+    Most of the expense comes under Transfer and payment category. Also, Harold spends minimum amount on travel. Please look at the table and pie chart for your reference.  
 
     Expense by Category:
 
@@ -23,7 +23,7 @@
 
 2. **Expense by month**
 
-    Please find the expense by month chart and tables 
+    Harold's expense per month is consistent and considering the income it is on the higher side. Please find the expense by month chart and tables 
 
     **Monthly Expense:**
 
@@ -48,11 +48,11 @@
     
         There is a chance that an initial investment of $20,000 in the portfolio over the next 252 * 30 trading days will end within the 10 percentile range of $2305601.150673056, 50 percentile range of $4176214.998429308 or 90 percentile range of $6890493.752890138
 
-        In the above scenario - Retirement income 92224.04602692224 is more than the projected income 7389 at 10% confidence internal
+        In the above scenario - Retirement income 92224.04602692224 is **more than the projected income** 7389.00 at 10% confidence internal
 
     2. Recommendation based on 30 years inversting in AGG(40%) and SPY(60%) with **50% more intial investment**
 
-        In the above scenario - Retirement income 138336.06904038336 is more than the projected income 7389 at 10% confidence internal
+        In the above scenario - Retirement income 138336.06904038336 is **more than the projected income** 7389.00 at 10% confidence internal
 
 
 2. **Monte Carlo simulatiom for 250*5 days** 
